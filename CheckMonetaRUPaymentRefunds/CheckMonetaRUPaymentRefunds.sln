@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckMonetaRUPaymentRefunds", "CheckMonetaRUPaymentRefunds\CheckMonetaRUPaymentRefunds.csproj", "{9ED4EB39-CD94-40BD-B03B-A6AD9D07F75C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED4EB39-CD94-40BD-B03B-A6AD9D07F75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED4EB39-CD94-40BD-B03B-A6AD9D07F75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED4EB39-CD94-40BD-B03B-A6AD9D07F75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED4EB39-CD94-40BD-B03B-A6AD9D07F75C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8B516A2-7A7B-49B8-A6F7-285065F2C6C5}
+	EndGlobalSection
+EndGlobal
